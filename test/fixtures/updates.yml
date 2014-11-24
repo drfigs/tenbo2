@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  video: MyString
+  map: MyString
+  project_id: 
+
+two:
+  video: MyString
+  map: MyString
+  project_id: 
