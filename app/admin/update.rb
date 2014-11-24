@@ -1,4 +1,5 @@
 ActiveAdmin.register Update do
+  permit_params :video, :map
 
 
   # See permitted parameters documentation:
